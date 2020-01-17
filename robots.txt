@@ -1,2 +1,2 @@
 User-agent: *
-Disallow:/secret
+Disallow:data.html
